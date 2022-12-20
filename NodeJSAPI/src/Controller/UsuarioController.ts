@@ -1,7 +1,8 @@
 import {Request, Response} from 'express';
 class UsuarioController {
     public async  Listartudo(req : Request, res: Response): Promise<Response>{
-        let a =["Guilherme", "Neide", "fernanda", "mariana"];
+        let a =["Guilherme", "Neide", "fernanda","Carol", "mariana"];
+        
         return await res.send(a);
     }
 
