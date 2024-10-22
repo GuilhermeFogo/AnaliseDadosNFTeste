@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "CapturaNotasNFSE\\Services\\CertificadoService.cs",
               "ToolTip": "C:\\Users\\Guilherme\\Desktop\\MeuTreinamento\\AnaliseDados\\AnaliseDadosNFTeste\\NotasFiscaisAPI\\NotasAPI\\CapturaNotasNFSE\\Services\\CertificadoService.cs",
               "RelativeToolTip": "CapturaNotasNFSE\\Services\\CertificadoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T13:36:53.828Z",
               "IsPinned": true,
@@ -76,8 +76,7 @@
               "RelativeToolTip": "CapturaNotasNFSE\\CapturaNFSEService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T13:36:52.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T13:36:52.808Z"
             }
           ]
         }

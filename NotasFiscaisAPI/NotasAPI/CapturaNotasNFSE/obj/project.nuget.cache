@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0xngd/Y+KQ4=",
+  "dgSpecHash": "9wLERvEiDEw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Guilherme\\Desktop\\MeuTreinamento\\AnaliseDados\\AnaliseDadosNFTeste\\NotasFiscaisAPI\\NotasAPI\\CapturaNotasNFSE\\CapturaNotasNFSE.csproj",
+  "projectFilePath": "C:\\Users\\Guilherme\\Desktop\\MeuTreinamento\\AnaliseDados\\AnaliseDadosNFTeste\\NotasFiscaisAPI\\NotasAPI\\CapturaNotasNFSE\\CapturaNotas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Guilherme\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Guilherme\\.nuget\\packages\\microsoft.extensions.objectpool\\6.0.16\\microsoft.extensions.objectpool.6.0.16.nupkg.sha512",
