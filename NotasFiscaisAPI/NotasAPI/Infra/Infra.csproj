@@ -11,6 +11,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Data\" />
+    <Folder Include="IServicosInfra\" />
     <Folder Include="Repository\" />
   </ItemGroup>
 

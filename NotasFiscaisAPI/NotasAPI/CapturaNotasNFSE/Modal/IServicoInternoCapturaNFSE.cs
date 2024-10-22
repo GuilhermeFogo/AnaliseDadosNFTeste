@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Doman.IServicos
+namespace CapturaNotas.Modal
 {
-    interface INotaFiscalServicoRepository
+    public interface IServicoInternoCapturaNFSE
     {
+        public void CapturarNotaNFSE();
     }
 }

@@ -1,0 +1,13 @@
+C:\Users\Guilherme\Desktop\MeuTreinamento\AnaliseDados\AnaliseDadosNFTeste\NotasFiscaisAPI\NotasAPI\CapturaNotasNFSE\bin\Debug\net8.0\CapturaNotasNFSE.deps.json
+C:\Users\Guilherme\Desktop\MeuTreinamento\AnaliseDados\AnaliseDadosNFTeste\NotasFiscaisAPI\NotasAPI\CapturaNotasNFSE\bin\Debug\net8.0\CapturaNotasNFSE.dll
+C:\Users\Guilherme\Desktop\MeuTreinamento\AnaliseDados\AnaliseDadosNFTeste\NotasFiscaisAPI\NotasAPI\CapturaNotasNFSE\bin\Debug\net8.0\CapturaNotasNFSE.pdb
+C:\Users\Guilherme\Desktop\MeuTreinamento\AnaliseDados\AnaliseDadosNFTeste\NotasFiscaisAPI\NotasAPI\CapturaNotasNFSE\obj\Debug\net8.0\CapturaNotasNFSE.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Desktop\MeuTreinamento\AnaliseDados\AnaliseDadosNFTeste\NotasFiscaisAPI\NotasAPI\CapturaNotasNFSE\obj\Debug\net8.0\CapturaNotasNFSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Desktop\MeuTreinamento\AnaliseDados\AnaliseDadosNFTeste\NotasFiscaisAPI\NotasAPI\CapturaNotasNFSE\obj\Debug\net8.0\CapturaNotasNFSE.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Desktop\MeuTreinamento\AnaliseDados\AnaliseDadosNFTeste\NotasFiscaisAPI\NotasAPI\CapturaNotasNFSE\obj\Debug\net8.0\CapturaNotasNFSE.AssemblyInfo.cs
+C:\Users\Guilherme\Desktop\MeuTreinamento\AnaliseDados\AnaliseDadosNFTeste\NotasFiscaisAPI\NotasAPI\CapturaNotasNFSE\obj\Debug\net8.0\CapturaNotasNFSE.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\MeuTreinamento\AnaliseDados\AnaliseDadosNFTeste\NotasFiscaisAPI\NotasAPI\CapturaNotasNFSE\obj\Debug\net8.0\CapturaNotasNFSE.sourcelink.json
+C:\Users\Guilherme\Desktop\MeuTreinamento\AnaliseDados\AnaliseDadosNFTeste\NotasFiscaisAPI\NotasAPI\CapturaNotasNFSE\obj\Debug\net8.0\CapturaNotasNFSE.dll
+C:\Users\Guilherme\Desktop\MeuTreinamento\AnaliseDados\AnaliseDadosNFTeste\NotasFiscaisAPI\NotasAPI\CapturaNotasNFSE\obj\Debug\net8.0\refint\CapturaNotasNFSE.dll
+C:\Users\Guilherme\Desktop\MeuTreinamento\AnaliseDados\AnaliseDadosNFTeste\NotasFiscaisAPI\NotasAPI\CapturaNotasNFSE\obj\Debug\net8.0\CapturaNotasNFSE.pdb
+C:\Users\Guilherme\Desktop\MeuTreinamento\AnaliseDados\AnaliseDadosNFTeste\NotasFiscaisAPI\NotasAPI\CapturaNotasNFSE\obj\Debug\net8.0\ref\CapturaNotasNFSE.dll

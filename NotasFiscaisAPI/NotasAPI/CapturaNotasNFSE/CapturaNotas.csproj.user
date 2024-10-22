@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <None Update="ArquivosXSD\schemasv02\nfse\PedidoCancelamentoLote_v01.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="ArquivosXSD\schemasv02\nfse\PedidoCancelamentoNFe_v01.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="ArquivosXSD\schemasv02\nfse\PedidoConsultaCNPJ_v01.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="ArquivosXSD\schemasv02\nfse\PedidoConsultaLote_v01.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="ArquivosXSD\schemasv02\nfse\PedidoConsultaNFePeriodo_v01.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="ArquivosXSD\schemasv02\nfse\PedidoConsultaNFe_v01.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="ArquivosXSD\schemasv02\nfse\PedidoEnvioLoteRPS_v01.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="ArquivosXSD\schemasv02\nfse\PedidoEnvioRPS_v01.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="ArquivosXSD\schemasv02\nfse\PedidoInformacoesLote_v01.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="ArquivosXSD\schemasv02\nfse\RetornoCancelamentoNFe_v01.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="ArquivosXSD\schemasv02\nfse\RetornoConsultaCNPJ_v01.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="ArquivosXSD\schemasv02\nfse\RetornoConsulta_v01.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="ArquivosXSD\schemasv02\nfse\RetornoEnvioLoteRPS_v01.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="ArquivosXSD\schemasv02\nfse\RetornoEnvioRPS_v01.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="ArquivosXSD\schemasv02\nfse\RetornoInformacoesLote_v01.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="ArquivosXSD\schemasv02\nfse\TiposNFe_v01.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="ArquivosXSD\schemasv02\nfse\xmldsig-core-schema_v01.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="ArquivosXSD\schemasv02\nfts\PedidoCancelamentoNFTS_v01.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="ArquivosXSD\schemasv02\nfts\PedidoConsultaCPOM_v01.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="ArquivosXSD\schemasv02\nfts\PedidoConsultaEmissaoNFSE_v01.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="ArquivosXSD\schemasv02\nfts\PedidoConsultaInformacoesLoteNFTS_v01.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="ArquivosXSD\schemasv02\nfts\PedidoConsultaLoteNFTS_v01.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="ArquivosXSD\schemasv02\nfts\PedidoConsultaNFTS_v01.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="ArquivosXSD\schemasv02\nfts\PedidoEnvioLoteNFTS_v01.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="ArquivosXSD\schemasv02\nfts\PedidoEnvioNFTS_v01.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="ArquivosXSD\schemasv02\nfts\RetornoCancelamentoNFTS_v01.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="ArquivosXSD\schemasv02\nfts\RetornoConsultaCPOM_v01.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="ArquivosXSD\schemasv02\nfts\RetornoConsultaEmissaoNFSE_v01.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="ArquivosXSD\schemasv02\nfts\RetornoConsultaInformacoesLoteNFTS_v01.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="ArquivosXSD\schemasv02\nfts\RetornoConsultaNFTS_v01.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="ArquivosXSD\schemasv02\nfts\RetornoEnvioLoteNFTS_v01.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="ArquivosXSD\schemasv02\nfts\RetornoEnvioNFTS_v01.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="ArquivosXSD\schemasv02\nfts\TiposNFTS_v01.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>

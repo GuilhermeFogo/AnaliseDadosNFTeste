@@ -1,12 +1,87 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Guilherme\\Desktop\\MeuTreinamento\\AnaliseDados\\AnaliseDadosNFTeste\\NotasFiscaisAPI\\NotasAPI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C88030A-FE1A-4F93-BE5D-139C164326FC}|CapturaNotasNFSE\\CapturaNotas.csproj|c:\\users\\guilherme\\desktop\\meutreinamento\\analisedados\\analisedadosnfteste\\notasfiscaisapi\\notasapi\\capturanotasnfse\\services\\certificadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C88030A-FE1A-4F93-BE5D-139C164326FC}|CapturaNotasNFSE\\CapturaNotas.csproj|solutionrelative:capturanotasnfse\\services\\certificadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C88030A-FE1A-4F93-BE5D-139C164326FC}|CapturaNotasNFSE\\CapturaNotas.csproj|c:\\users\\guilherme\\desktop\\meutreinamento\\analisedados\\analisedadosnfteste\\notasfiscaisapi\\notasapi\\capturanotasnfse\\capturanfseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C88030A-FE1A-4F93-BE5D-139C164326FC}|CapturaNotasNFSE\\CapturaNotas.csproj|solutionrelative:capturanotasnfse\\capturanfseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E2F3B0-8118-4035-8209-6C84763FCF40}|Services\\Services.csproj|c:\\users\\guilherme\\desktop\\meutreinamento\\analisedados\\analisedadosnfteste\\notasfiscaisapi\\notasapi\\services\\services\\capturanotasnfseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E2F3B0-8118-4035-8209-6C84763FCF40}|Services\\Services.csproj|solutionrelative:services\\services\\capturanotasnfseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C88030A-FE1A-4F93-BE5D-139C164326FC}|CapturaNotasNFSE\\CapturaNotas.csproj|c:\\users\\guilherme\\desktop\\meutreinamento\\analisedados\\analisedadosnfteste\\notasfiscaisapi\\notasapi\\capturanotasnfse\\modal\\icertificadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C88030A-FE1A-4F93-BE5D-139C164326FC}|CapturaNotasNFSE\\CapturaNotas.csproj|solutionrelative:capturanotasnfse\\modal\\icertificadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CertificadoService.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\MeuTreinamento\\AnaliseDados\\AnaliseDadosNFTeste\\NotasFiscaisAPI\\NotasAPI\\CapturaNotasNFSE\\Services\\CertificadoService.cs",
+              "RelativeDocumentMoniker": "CapturaNotasNFSE\\Services\\CertificadoService.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\Desktop\\MeuTreinamento\\AnaliseDados\\AnaliseDadosNFTeste\\NotasFiscaisAPI\\NotasAPI\\CapturaNotasNFSE\\Services\\CertificadoService.cs",
+              "RelativeToolTip": "CapturaNotasNFSE\\Services\\CertificadoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:36:53.828Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CapturaNotasNFSEService.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\MeuTreinamento\\AnaliseDados\\AnaliseDadosNFTeste\\NotasFiscaisAPI\\NotasAPI\\Services\\Services\\CapturaNotasNFSEService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\CapturaNotasNFSEService.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\Desktop\\MeuTreinamento\\AnaliseDados\\AnaliseDadosNFTeste\\NotasFiscaisAPI\\NotasAPI\\Services\\Services\\CapturaNotasNFSEService.cs",
+              "RelativeToolTip": "Services\\Services\\CapturaNotasNFSEService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:46:46.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICertificadoService.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\MeuTreinamento\\AnaliseDados\\AnaliseDadosNFTeste\\NotasFiscaisAPI\\NotasAPI\\CapturaNotasNFSE\\Modal\\ICertificadoService.cs",
+              "RelativeDocumentMoniker": "CapturaNotasNFSE\\Modal\\ICertificadoService.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\Desktop\\MeuTreinamento\\AnaliseDados\\AnaliseDadosNFTeste\\NotasFiscaisAPI\\NotasAPI\\CapturaNotasNFSE\\Modal\\ICertificadoService.cs",
+              "RelativeToolTip": "CapturaNotasNFSE\\Modal\\ICertificadoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:40:02.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CapturaNFSEService.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\MeuTreinamento\\AnaliseDados\\AnaliseDadosNFTeste\\NotasFiscaisAPI\\NotasAPI\\CapturaNotasNFSE\\CapturaNFSEService.cs",
+              "RelativeDocumentMoniker": "CapturaNotasNFSE\\CapturaNFSEService.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\Desktop\\MeuTreinamento\\AnaliseDados\\AnaliseDadosNFTeste\\NotasFiscaisAPI\\NotasAPI\\CapturaNotasNFSE\\CapturaNFSEService.cs",
+              "RelativeToolTip": "CapturaNotasNFSE\\CapturaNFSEService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:36:52.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

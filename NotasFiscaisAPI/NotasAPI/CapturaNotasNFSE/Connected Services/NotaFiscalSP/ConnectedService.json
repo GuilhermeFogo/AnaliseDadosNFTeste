@@ -1,0 +1,16 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "https://nfe.prefeitura.sp.gov.br/ws/lotenfe.asmx?WSDL"
+    ],
+    "collectionTypes": [
+      "System.Collections.ObjectModel.Collection`1",
+      "System.Collections.Specialized.ListDictionary"
+    ],
+    "namespaceMappings": [
+      "*, NotaFiscalSP"
+    ],
+    "targetFramework": "net8.0",
+    "typeReuseMode": "All"
+  }
+}
