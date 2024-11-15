@@ -25,7 +25,7 @@
                 </xs:annotation>
               </xs:element>
             </xs:sequence>
-            <xs:attribute name="Versao" type="tipos:tpVersao" use="required">
+            <xs:attribute name="Versao" type="tipos:tpVersao" use="required" fixed="1">
               <xs:annotation>
                 <xs:documentation>Informe a Versão do Schema XML utilizado.</xs:documentation>
               </xs:annotation>

@@ -7,8 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CapturaNotasNFSE\CapturaNotasNFSE.csproj" />
-    <ProjectReference Include="..\Infra\Infra.csproj" />
+    <ProjectReference Include="..\CapturaNotasNFSE\CapturaNotas.csproj" />
+    <ProjectReference Include="..\Infra\Infra.csproj">
+      <TreatAsUsed>true</TreatAsUsed>
+    </ProjectReference>
   </ItemGroup>
 
 </Project>

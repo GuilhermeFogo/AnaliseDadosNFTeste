@@ -2,9 +2,6 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
   <ItemGroup>
-    <None Update="ArquivosXSD\schemasv02\nfse\PedidoCancelamentoLote_v01.xsd">
-      <SubType>Designer</SubType>
-    </None>
     <None Update="ArquivosXSD\schemasv02\nfse\PedidoCancelamentoNFe_v01.xsd">
       <SubType>Designer</SubType>
     </None>

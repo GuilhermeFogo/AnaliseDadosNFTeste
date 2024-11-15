@@ -1,4 +1,4 @@
-﻿using CapturaNotasNFSE;
+﻿using CapturaNotas;
 using System;
 using System.Collections.Generic;
 using System.Linq;
