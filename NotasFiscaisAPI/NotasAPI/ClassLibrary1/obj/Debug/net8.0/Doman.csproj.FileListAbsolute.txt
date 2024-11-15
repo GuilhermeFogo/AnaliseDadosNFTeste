@@ -10,15 +10,3 @@ C:\Users\Guilherme\Desktop\MeuTreinamento\AnaliseDados\AnaliseDadosNFTeste\Notas
 C:\Users\Guilherme\Desktop\MeuTreinamento\AnaliseDados\AnaliseDadosNFTeste\NotasFiscaisAPI\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\refint\Doman.dll
 C:\Users\Guilherme\Desktop\MeuTreinamento\AnaliseDados\AnaliseDadosNFTeste\NotasFiscaisAPI\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\Doman.pdb
 C:\Users\Guilherme\Desktop\MeuTreinamento\AnaliseDados\AnaliseDadosNFTeste\NotasFiscaisAPI\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\ref\Doman.dll
-C:\Users\Guilherme\Desktop\MeuTreinamento\AnaliseDados\AnaliseDadosNFTeste\NotasFiscaisAPI\NotasAPI\ClassLibrary1\bin\Debug\net8.0\Doman.deps.json
-C:\Users\Guilherme\Desktop\MeuTreinamento\AnaliseDados\AnaliseDadosNFTeste\NotasFiscaisAPI\NotasAPI\ClassLibrary1\bin\Debug\net8.0\Doman.dll
-C:\Users\Guilherme\Desktop\MeuTreinamento\AnaliseDados\AnaliseDadosNFTeste\NotasFiscaisAPI\NotasAPI\ClassLibrary1\bin\Debug\net8.0\Doman.pdb
-C:\Users\Guilherme\Desktop\MeuTreinamento\AnaliseDados\AnaliseDadosNFTeste\NotasFiscaisAPI\NotasAPI\ClassLibrary1\obj\Debug\net8.0\Doman.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Guilherme\Desktop\MeuTreinamento\AnaliseDados\AnaliseDadosNFTeste\NotasFiscaisAPI\NotasAPI\ClassLibrary1\obj\Debug\net8.0\Doman.AssemblyInfoInputs.cache
-C:\Users\Guilherme\Desktop\MeuTreinamento\AnaliseDados\AnaliseDadosNFTeste\NotasFiscaisAPI\NotasAPI\ClassLibrary1\obj\Debug\net8.0\Doman.AssemblyInfo.cs
-C:\Users\Guilherme\Desktop\MeuTreinamento\AnaliseDados\AnaliseDadosNFTeste\NotasFiscaisAPI\NotasAPI\ClassLibrary1\obj\Debug\net8.0\Doman.csproj.CoreCompileInputs.cache
-C:\Users\Guilherme\Desktop\MeuTreinamento\AnaliseDados\AnaliseDadosNFTeste\NotasFiscaisAPI\NotasAPI\ClassLibrary1\obj\Debug\net8.0\Doman.sourcelink.json
-C:\Users\Guilherme\Desktop\MeuTreinamento\AnaliseDados\AnaliseDadosNFTeste\NotasFiscaisAPI\NotasAPI\ClassLibrary1\obj\Debug\net8.0\Doman.dll
-C:\Users\Guilherme\Desktop\MeuTreinamento\AnaliseDados\AnaliseDadosNFTeste\NotasFiscaisAPI\NotasAPI\ClassLibrary1\obj\Debug\net8.0\refint\Doman.dll
-C:\Users\Guilherme\Desktop\MeuTreinamento\AnaliseDados\AnaliseDadosNFTeste\NotasFiscaisAPI\NotasAPI\ClassLibrary1\obj\Debug\net8.0\Doman.pdb
-C:\Users\Guilherme\Desktop\MeuTreinamento\AnaliseDados\AnaliseDadosNFTeste\NotasFiscaisAPI\NotasAPI\ClassLibrary1\obj\Debug\net8.0\ref\Doman.dll
