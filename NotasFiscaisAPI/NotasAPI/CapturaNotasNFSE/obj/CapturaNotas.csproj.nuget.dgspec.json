@@ -56,15 +56,15 @@
             },
             "System.ServiceModel.Federation": {
               "target": "Package",
-              "version": "[6.0.*, )"
+              "version": "[8.1.0, )"
             },
             "System.ServiceModel.Http": {
               "target": "Package",
-              "version": "[6.0.*, )"
+              "version": "[8.1.0, )"
             },
             "System.ServiceModel.NetTcp": {
               "target": "Package",
-              "version": "[6.0.*, )"
+              "version": "[8.1.0, )"
             },
             "System.ServiceModel.Security": {
               "target": "Package",

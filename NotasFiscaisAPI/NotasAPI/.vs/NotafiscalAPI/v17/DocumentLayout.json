@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Guilherme\\Desktop\\MeuTreinamento\\AnaliseDados\\AnaliseDadosNFTeste\\NotasFiscaisAPI\\NotasAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C88030A-FE1A-4F93-BE5D-139C164326FC}|CapturaNotasNFSE\\CapturaNotas.csproj|c:\\users\\guilherme\\desktop\\meutreinamento\\analisedados\\analisedadosnfteste\\notasfiscaisapi\\notasapi\\capturanotasnfse\\capturanfseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C88030A-FE1A-4F93-BE5D-139C164326FC}|CapturaNotasNFSE\\CapturaNotas.csproj|solutionrelative:capturanotasnfse\\capturanfseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1692C343-153D-482A-A816-3BDEB4DFF7C3}|APIMyNFE\\APIMyNFE.csproj|c:\\users\\guilherme\\desktop\\meutreinamento\\analisedados\\analisedadosnfteste\\notasfiscaisapi\\notasapi\\apimynfe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1692C343-153D-482A-A816-3BDEB4DFF7C3}|APIMyNFE\\APIMyNFE.csproj|solutionrelative:apimynfe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CapturaNFSEService.cs",
-              "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\MeuTreinamento\\AnaliseDados\\AnaliseDadosNFTeste\\NotasFiscaisAPI\\NotasAPI\\CapturaNotasNFSE\\CapturaNFSEService.cs",
-              "RelativeDocumentMoniker": "CapturaNotasNFSE\\CapturaNFSEService.cs",
-              "ToolTip": "C:\\Users\\Guilherme\\Desktop\\MeuTreinamento\\AnaliseDados\\AnaliseDadosNFTeste\\NotasFiscaisAPI\\NotasAPI\\CapturaNotasNFSE\\CapturaNFSEService.cs",
-              "RelativeToolTip": "CapturaNotasNFSE\\CapturaNFSEService.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAmwCEAAAAqAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\MeuTreinamento\\AnaliseDados\\AnaliseDadosNFTeste\\NotasFiscaisAPI\\NotasAPI\\APIMyNFE\\Program.cs",
+              "RelativeDocumentMoniker": "APIMyNFE\\Program.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\Desktop\\MeuTreinamento\\AnaliseDados\\AnaliseDadosNFTeste\\NotasFiscaisAPI\\NotasAPI\\APIMyNFE\\Program.cs",
+              "RelativeToolTip": "APIMyNFE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T12:49:30.364Z",
+              "WhenOpened": "2024-12-02T14:36:28.5Z",
               "EditorCaption": ""
             }
           ]

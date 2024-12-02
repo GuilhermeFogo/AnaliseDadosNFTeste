@@ -8,6 +8,7 @@ namespace CapturaNotas.Modal
 {
     public interface IServicoInternoCapturaNFSE
     {
-        public void CapturarNotaNFSE();
+        public void CapturarNotaNFSE(string caminhocert, string senhacert, string CPFCNPJ,
+            string CNPJPrestador, DateTime inicio, DateTime fim, int inscricaomunicipal);
     }
 }

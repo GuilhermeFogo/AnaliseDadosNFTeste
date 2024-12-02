@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infra", "Infra\Infra.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services", "Services\Services.csproj", "{47E2F3B0-8118-4035-8209-6C84763FCF40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapturaNotas", "CapturaNotasNFSE\CapturaNotas.csproj", "{7C88030A-FE1A-4F93-BE5D-139C164326FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CapturaNotas", "CapturaNotasNFSE\CapturaNotas.csproj", "{7C88030A-FE1A-4F93-BE5D-139C164326FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIMyNFE", "APIMyNFE\APIMyNFE.csproj", "{1692C343-153D-482A-A816-3BDEB4DFF7C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{7C88030A-FE1A-4F93-BE5D-139C164326FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C88030A-FE1A-4F93-BE5D-139C164326FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C88030A-FE1A-4F93-BE5D-139C164326FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1692C343-153D-482A-A816-3BDEB4DFF7C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1692C343-153D-482A-A816-3BDEB4DFF7C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1692C343-153D-482A-A816-3BDEB4DFF7C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1692C343-153D-482A-A816-3BDEB4DFF7C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CapturaNotasNFSE\CapturaNotas.csproj" />
+    <ProjectReference Include="..\ClassLibrary1\Doman.csproj" />
     <ProjectReference Include="..\Infra\Infra.csproj">
       <TreatAsUsed>true</TreatAsUsed>
     </ProjectReference>
